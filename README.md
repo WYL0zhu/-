@@ -4,7 +4,7 @@
 + 下载并安装 *Python*。方法：打开 https://www.python.org/downloads/release/python-3100/ ，滑到最下面 **Files**。如果你是 *Windows* 64 位，选择 *Windows installer (64-bit)*。如果你是 *Windows* 32 位， 选择 *Windows installer (32-bit)*。如果你是 *max OSX*（苹果），选择 *macOS 64-bit universal2 installer*。如果你是 *Linux*，上述方法无用，打开 https://www.cnblogs.com/knighterrant/p/10719887.html 自行学习。 
 + 下载并安装解压软件，随便一个。没有的话可以选择 *7z*。方法：打开 https://www.7-zip.org/ 。然后选对应你电脑的版本下载。
 + 解压下载的斗地主。斗地主在 *-\Code* 里。
-+ 右键 *斗地主\\\__init__.py*，点击 *Edit with IDLE*。
++ 右键 *poker\\\__init__.py*，点击 *Edit with IDLE*。
 + 按 *F5*（笔记本或苹果是 *Fn* + *F5*）。
 接着斗地主就成功运行了。不会自己邮箱问我。
 ## 注意事项
