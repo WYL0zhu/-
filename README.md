@@ -4,7 +4,7 @@
 + 下载并安装 *Python*。方法：打开 https://www.python.org/downloads/release/python-3100/ ，滑到最下面 **Files**。如果你是 *Windows* 64 位，选择 *Windows installer (64-bit)*。如果你是 *Windows* 32 位， 选择 *Windows installer (32-bit)*。如果你是 *max OSX*（苹果），选择 *macOS 64-bit universal2 installer*。如果你是 *Linux*，上述方法无用，自行百度学习。 
 + 下载并安装解压软件，随便一个。没有的话可以选择 *7z*。方法：打开 https://www.7-zip.org/ 。然后选对应你电脑的版本下载。
 + 解压下载的斗地主、杀。斗地主在 *-\Code* 里。
-+ 杀请在 https://pan.baidu.com/s/1mhfrTRi3GyvQrdOZJ4q-Dw 下载。
++ 杀请在 https://pan.baidu.com/s/1Ogd3fY3J3kI8HtrggWaE1g 下载。
 + 如果是杀，还要运行 *start.bat*。
 + 右键 *poker\\\__init__.py*（斗地主）或者 *kill\\\__init__.py*（杀），点击 *Edit with IDLE*。
 + 按 *F5*（笔记本或苹果是 *Fn* + *F5*）。
